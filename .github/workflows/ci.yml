@@ -18,5 +18,5 @@ jobs:
       run: |
         pytest
     - name: Run training script
-     run: |
+      run: |
         python train.py
